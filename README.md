@@ -24,3 +24,5 @@ between the left and right side of an image to create a seamless lithopane!
 ## Looped Image After Stable Diffusion
 ![](https://github.com/DIYIronFeBtw/3dprints/blob/main/effect-demo.jpg?raw=true)
 
+## Result
+![](https://github.com/DIYIronFeBtw/3dprints/blob/main/postAiPrint.jpg?raw=true)
